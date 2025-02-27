@@ -25,5 +25,5 @@
      ![screenshot](event-brige-pattern.png)
    
    step 3 
-     ![screenshot](event-brige-target.png.png)
+     ![screenshot](event-brige-target.png)
 
