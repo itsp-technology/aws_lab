@@ -40,3 +40,6 @@ def lambda_handler(event, context):
     ec2.start_instances(InstanceIds=instances)
     print('started your instances: ' + str(instances))
 ```
+
+# Lounch New EC2 Instance using Lambda function so you can increase the memory size in configuration Tab
+![screenshot](img/memory-size.png)
