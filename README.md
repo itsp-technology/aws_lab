@@ -42,4 +42,4 @@ def lambda_handler(event, context):
 ```
 
 # Lounch New EC2 Instance using Lambda function so you can increase the memory size in configuration Tab
-![screenshot](img/memory-size.png)
+![screenshot](lambda-aws/img/memory-size.png)
