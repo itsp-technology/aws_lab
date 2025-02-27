@@ -19,13 +19,13 @@
 
 4 . create event Bridge for trigger the lambda function
   step 1 
-     ![screenshot](img/event-brige.png)
+     ![screenshot](lambda-aws/img/event-brige.png)
 
    step 2 
-     ![screenshot](img/event-brige-pattern.png)
+     ![screenshot](lambda-aws/img/event-brige-pattern.png)
    
    step 3 
-     ![screenshot](img/event-brige-target.png)
+     ![screenshot](lambda-aws/img/event-brige-target.png)
 
 
 
