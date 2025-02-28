@@ -5,7 +5,7 @@ AWS Lambda is a **serverless computing service** that automatically manages infr
 
 ---
 ## create Lambda Funtion flow or steps:
-![screenshot](/lambda-service/ec2-lambda/img/create-lambda.png)
+![screenshot](/lambda-service/ec2-lambda/img/create-lam.png)
 
 ##  Key Features:
 - **Serverless & Fully Managed** – No need to manage infrastructure.
