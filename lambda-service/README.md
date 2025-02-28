@@ -3,6 +3,10 @@
 ##  What is AWS Lambda?
 AWS Lambda is a **serverless computing service** that automatically manages infrastructure, allowing you to run code without provisioning or managing servers. It executes code in response to events and automatically scales based on the workload.
 
+---
+## create Lambda Funtion flow or steps:
+![screenshot](/lambda-service/ec2-lambda/img/create-lambda.png)
+
 ##  Key Features:
 - **Serverless & Fully Managed** – No need to manage infrastructure.
 - **Event-Driven Execution** – Runs only when triggered by an event.
