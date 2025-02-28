@@ -69,8 +69,8 @@ If 10 users upload photos at once, Lambda **processes all 10 images at the same 
 🔗 [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)  
 🔗 [AWS Free Tier](https://aws.amazon.com/free/)  
 🔗 [boto3 docs](https://aws.amazon.com/free/) 
-🔗 [boto3 s3 docs](https://boto3.amazonaws.com/v1/documentation/api/1.9.42/guide/s3-example-creating-buckets.html)   
-🔗 [boto3 s3 docs](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html) 
+🔗 [boto3 s3 docs](https://boto3.amazonaws.com/v1/documentation/api/1.9.42/guide/s3-example-creating-buckets.html/)   
+🔗 [boto3 s3 docs](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html/) 
 
 ---
 
